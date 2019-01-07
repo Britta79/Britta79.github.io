@@ -8,4 +8,9 @@ $(document).ready(function(){
     pauseOnFocus: false,
     pauseOnHover: false
   });
+  
+  $('.menu').click(function(){
+   $('ul').toggleClass('active');
+  })
+  
 });
