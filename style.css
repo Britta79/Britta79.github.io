@@ -82,7 +82,7 @@ nav {
 }
 
 .landing {
-  background-image: url("/Britta79.github.io/mainbannerSchaf.jpg");
+  background-image: url("../images/mainbannerSchaf.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -189,7 +189,7 @@ footer {
      .landing {
          background-size: 100%;
          background-position: bottom;
-         position: relative;
+         height: 75%;
          bottom: -10px;
               }
       .landing-text {
@@ -200,6 +200,11 @@ footer {
     .landing-text h1 {
       font-size: 5rem;
       }
+
+      .landing-text h1 , .landing-text p {
+         animation: none;
+      }
+
     }
 
 /* About us */
@@ -227,22 +232,22 @@ footer {
 }
 
 .background-family {
-  background-image: url("/Britta79.github.io/family.JPG");
+  background-image: url("../images/family.JPG");
   background-position: center;
 }
 
 .background-maja {
-  background-image: url("/Britta79.github.io/Maja.JPG");
+  background-image: url("../images/Maja.JPG");
   background-position: bottom;
 }
 
 .background-sheep1 {
-  background-image: url("/Britta79.github.io/sheepPaddock.JPG");
+  background-image: url("../images/sheepPaddock.JPG");
   background-position: center;
 }
 
 .background-sheep2 {
-  background-image: url("/Britta79.github.io/sheepPaddock2.JPG");
+  background-image: url("../images/sheepPaddock2.JPG");
   background-position: bottom;
 }
 
@@ -304,10 +309,6 @@ footer {
     }
    .jumbotron h3 {
      display: none;
-   }
-
-   .introduction {
-     padding-top:30px;
    }
 }
 
@@ -604,7 +605,7 @@ margin-bottom: 30px;
  {
    .news {
      width: 100%;
-    
+
    }
  }
 
