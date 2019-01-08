@@ -82,7 +82,7 @@ nav {
 }
 
 .landing {
-  background-image: url("../images/mainbannerSchaf.jpg");
+  background-image: url("/Britta79.github.io/mainbannerSchaf.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -235,22 +235,22 @@ footer {
 }
 
 .background-family {
-  background-image: url("../images/family.JPG");
+  background-image: url("/Britta79.github.io/family.JPG");
   background-position: center;
 }
 
 .background-maja {
-  background-image: url("../images/Maja.JPG");
+  background-image: url("/Britta79.github.io/Maja.JPG");
   background-position: bottom;
 }
 
 .background-sheep1 {
-  background-image: url("../images/sheepPaddock.JPG");
+  background-image: url("/Britta79.github.io/sheepPaddock.JPG");
   background-position: center;
 }
 
 .background-sheep2 {
-  background-image: url("../images/sheepPaddock2.JPG");
+  background-image: url("/Britta79.github.io/sheepPaddock2.JPG");
   background-position: bottom;
 }
 
